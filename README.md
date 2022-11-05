@@ -1,2 +1,2 @@
 # project-2
-Project 2 - rock, paper, scissors game
+Project 2 - Interactive rock, paper, scissors game
